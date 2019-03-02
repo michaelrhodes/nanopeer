@@ -1,9 +1,9 @@
 # nanopeer
-handles the webrtc peer connection dance in 726 bytes
+handles the webrtc peer connection dance in 741 bytes
 
 ## install
 ```sh
-npm install michaelrhodes/nanopeer#1.1.0
+npm install michaelrhodes/nanopeer#1.1.1
 ```
 
 ## use
