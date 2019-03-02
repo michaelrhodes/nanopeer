@@ -79,6 +79,7 @@ function send (msg) {
 
 function close () {
   this.data.close()
+  this.peer.close()
 }
 
 function add (track, stream) {
